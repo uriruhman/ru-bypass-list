@@ -173,17 +173,25 @@ services:
 
   - name: "СБП / НСПК"
     asn:
-      - 207009
+      - 21292
+      - 41185
+      - 41187
+      - 50339
     domains:
       - nspk.ru
       - sbp.nspk.ru
+      - qr.nspk.ru
 
   - name: "Mir Pay / НСПК"
     asn:
-      - 207009
+      - 21292
+      - 41185
+      - 41187
+      - 50339
     domains:
-      - mironline.ru
+      - privetmir.ru
       - mirpay.ru
+      - mir-payments.ru
 
   # ============================================================
   # ТЕЛЕКОМ
